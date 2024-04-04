@@ -1,3 +1,4 @@
 [submodule "utils_test"]
-	path = utils_test
+	path = utils
 	url = git@github.com:jmarcoaz/utils_test.git
+	branch = main
